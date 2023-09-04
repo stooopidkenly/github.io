@@ -20,13 +20,15 @@
     margin-bottom: 1px;
     position: absolute;
     top: 0px;
+    
 }
 
 img{
-    width: 40%;
-    height: 40%;
+    width: 23%;
+    height: 23%;
     padding-bottom: 40px;
     transition: 0.3s ease-in-out;
+    
     
 }
 
@@ -53,7 +55,7 @@ body { /*start of the dark mode */
 }
 
 .slider-container {
-    position: absolute;
+    position: fixed;
     top: 20px;
     left: 20px;
     display: flex;
