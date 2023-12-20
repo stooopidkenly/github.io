@@ -19,8 +19,20 @@
     text-decoration: underline;
     margin-bottom: 1px;
     position: absolute;
+    top: 0px;   
+}
+
+.year
+{
+    font-family: 'Borel';
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    margin-bottom: 1px;
+    position: absolute;
     top: 0px;
-    
+    padding-top: 50px;
 }
 
 img{
